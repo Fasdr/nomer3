@@ -3,7 +3,7 @@ import numpy as np
 from math import exp
 
 h = 0.1
-t = 0.001
+t = 0.1
 
 a = 0.024
 
